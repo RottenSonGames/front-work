@@ -1,0 +1,28 @@
+li {
+  color: gray;
+}
+
+.red_food {
+  color: red;
+}
+
+.orange_food {
+  color: orange;
+}
+
+.green_food {
+  font-size: 20px;
+  color: green;
+}
+
+div .orange_food {
+  color: brown;
+}
+
+a:hover {
+  color: goldenrod
+}
+
+a:active {
+  color:fuchsia
+}
