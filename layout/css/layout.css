@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+}
+
+.container {
+  width: 1000px;
+  height: 618px;
+  background-color: gray;;
+  border: 12px solid rgb(231, 135, 183)
+}
+
+.header {
+  width: 100%;
+  height: 20%;
+  background-color: rgb(209, 250, 250);
+
+}
+
+.left-menu {
+  width: 20%;
+  height: 60%;
+  background-color: lavenderblush;
+  float: left;
+}
+
+.right-menu {
+  width: 80%;
+  height: 60%;
+  background-color:lightsteelblue;
+  float: left;
+}
+
+.footer {
+  width: 100%;
+  height: 20%;
+  background-color: rgb(175, 250, 175);
+  float: left;
+}

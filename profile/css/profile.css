@@ -17,5 +17,20 @@
 }
 
 p {
+  
+}
+
+.box {
   text-align: center;
+  width: 323px;
+  height: 200px;
+  padding: 40px;
+  margin: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 30px;
+  border-radius: 5px;
+  background-color: rgb(254, 200, 154);
+  border: 4px solid rgb(209, 147, 92);
+  color: rgb(153, 82, 82);
 }
